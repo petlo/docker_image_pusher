@@ -1,7 +1,6 @@
 nginx:latest
 postgres:latest
-hyperf/hyperf:8.1-alpine-v3.18-swoole
+hyperf/hyperf:8.1-alpine-v3.18-swoole:latest
 redis:latest
 rabbitmq:latest
 mysql:latest
-hyperf/hyperf:8.1-alpine-v3.18-swoole
