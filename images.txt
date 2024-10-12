@@ -6,3 +6,5 @@ rabbitmq:latest
 mysql:latest
 mongo:latest
 rocketmq:latest
+mongo:latest
+rocketmq:latest
