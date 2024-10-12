@@ -7,4 +7,4 @@ mysql:latest
 mongo:latest
 rocketmq:latest
 mongo:latest
-rocketmq:latest
+apache/rocketmq:latest
