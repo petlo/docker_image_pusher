@@ -7,4 +7,4 @@ mysql:latest
 mongo:latest
 rocketmq:latest
 mongo:latest
-apache/rocketmq:latest
+apache/rocketmq:5.3.0
