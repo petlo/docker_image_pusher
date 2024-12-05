@@ -6,5 +6,4 @@ rabbitmq:latest
 mysql:latest
 mongo:latest
 rocketmq:latest
-mongo:latest
-apache/rocketmq:5.3.0
+ubuntu:latest
