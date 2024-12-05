@@ -5,5 +5,4 @@ redis:latest
 rabbitmq:latest
 mysql:latest
 mongo:latest
-rocketmq:latest
 ubuntu:latest
