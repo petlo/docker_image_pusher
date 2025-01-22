@@ -6,4 +6,4 @@ rabbitmq:latest
 mysql:latest
 mongo:latest
 ubuntu:latest
-citiizenstig/dvwa:latest
+
