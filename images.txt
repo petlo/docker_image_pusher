@@ -1,3 +1,4 @@
+ai/chat-ollama:latest
 hyperf/hyperf:8.1-alpine-v3.18-swoole
 redis:latest
 rabbitmq:latest
@@ -6,4 +7,3 @@ mongo:latest
 ubuntu:latest
 nginx:latest
 postgres:latest
-ai/chat-ollama:latest
